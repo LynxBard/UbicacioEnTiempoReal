@@ -74,7 +74,7 @@ Para ejecutar este proyecto, necesitas Android Studio y una API Key de Google Ma
 
 Clonar el repositorio:
 
-git clone [https://github.com/TU_USUARIO/Rastreador-ESCOM.git](https://github.com/TU_USUARIO/Rastreador-ESCOM.git)
+git clone [https://github.com/LynxBard/UbicacioEnTiempoReal.git](https://github.com/LynxBard/UbicacioEnTiempoReal.git)
 
 
 Configurar la API Key:
