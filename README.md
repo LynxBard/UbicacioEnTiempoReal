@@ -1,12 +1,12 @@
-📍 Rastreador GPS
+#📍 Rastreador GPS
 
 Aplicación nativa de Android desarrollada para la unidad de aprendizaje Desarrollo de Aplicaciones Móviles Nativas de la Escuela Superior de Cómputo (ESCOM - IPN).
 
 Esta aplicación permite el rastreo de la ubicación del usuario en tiempo real, manteniendo el registro incluso cuando la aplicación se encuentra en segundo plano, y visualizando la ruta trazada sobre un mapa de Google.
 
-📋 Características Principales (Requisitos del Examen)
+## 📋 Características Principales (Requisitos del Examen)
 
-1. 🛰️ Rastreo de Ubicación
+### 1. 🛰️ Rastreo de Ubicación
 
 Obtención de coordenadas GPS (Latitud, Longitud) mediante FusedLocationProviderClient.
 
@@ -20,7 +20,7 @@ Intervalos Configurables: El usuario puede seleccionar actualizaciones cada:
 
 Segundo Plano: Funciona minimizada gracias a un Foreground Service con notificación persistente.
 
-2. 🗺️ Visualización en Mapa
+### 2. 🗺️ Visualización en Mapa
 
 + Integración de Google Maps SDK.
 
@@ -30,7 +30,7 @@ Segundo Plano: Funciona minimizada gracias a un Foreground Service con notificac
 
 + Animación de cámara automática siguiendo al usuario.
 
-3. 💾 Almacenamiento Local (Persistencia)
+### 3. 💾 Almacenamiento Local (Persistencia)
 
 + Uso de Room Database (SQLite) para guardar el historial.
 
@@ -38,7 +38,7 @@ Segundo Plano: Funciona minimizada gracias a un Foreground Service con notificac
 
 + Persistencia de datos entre reinicios de la aplicación.
 
-4. 🎨 Interfaz y Personalización (UI)
+### 4. 🎨 Interfaz y Personalización (UI)
 
 Desarrollada 100% en Jetpack Compose.
 
@@ -68,7 +68,7 @@ Concurrencia: Coroutines & Flow
 
 Servicios: Android Foreground Services
 
-🚀 Instalación y Configuración
+### 🚀 Instalación y Configuración
 
 Para ejecutar este proyecto, necesitas Android Studio y una API Key de Google Maps.
 
@@ -83,10 +83,7 @@ Obtén una API Key en Google Cloud Console habilitando el Maps SDK for Android.
 
 Abre el archivo local.properties 
 
-Agrega la siguiente linea:
-
-MAPS_API_KEY=TuAPIKey
-
+Agrega la siguiente linea: MAPS_API_KEY=TuAPIKey
 
 Compilar:
 
