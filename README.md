@@ -1,4 +1,4 @@
-#📍 Rastreador GPS
+##📍 Rastreador GPS
 
 Aplicación nativa de Android desarrollada para la unidad de aprendizaje Desarrollo de Aplicaciones Móviles Nativas de la Escuela Superior de Cómputo (ESCOM - IPN).
 
