@@ -93,8 +93,8 @@ Ejecuta en un emulador o dispositivo físico (Android 7.0+).
 
 Nota: Para probar el rastreo en el emulador, recuerda usar las herramientas extendidas del emulador (tres puntos > Location) para simular movimiento o rutas GPS.
 
-📸 Capturas de Pantalla
+## 📸 Capturas de Pantalla
 
 | Mapa (Tema IPN) | Historial | Mapa (Tema ESCOM) |
-| :---: | :---: |
+| :---: | :---: | :---: |
 |![](https://github.com/user-attachments/assets/0ce45126-7e0b-4270-8976-26de17eddbee)|![](https://github.com/user-attachments/assets/41f29fc4-37d0-4c8c-986b-accd1b5acc1b)|![](https://github.com/user-attachments/assets/c3f25e6f-6d53-4d12-8a40-44683e2645e3)|
