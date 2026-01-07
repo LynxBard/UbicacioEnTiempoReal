@@ -40,33 +40,33 @@ Segundo Plano: Funciona minimizada gracias a un Foreground Service con notificac
 
 ### 4. 🎨 Interfaz y Personalización (UI)
 
-Desarrollada 100% en Jetpack Compose.
++ Desarrollada 100% en Jetpack Compose.
 
-Temas Dinámicos: Selector para cambiar entre:
++ Temas Dinámicos: Selector para cambiar entre:
 
   🟣 Tema IPN (Guinda)
 
   🔵 Tema ESCOM (Azul)
 
-Soporte completo para Modo Oscuro/Claro.
++ Soporte completo para Modo Oscuro/Claro.
 
-Pantalla de Historial con opción para limpiar registros.
++ Pantalla de Historial con opción para limpiar registros.
 
 🛠️ Tecnologías Utilizadas
 
-Lenguaje: Kotlin
++ Lenguaje: Kotlin
 
-UI Framework: Jetpack Compose (Material 3)
++ UI Framework: Jetpack Compose (Material 3)
 
-Arquitectura: MVVM (Model-View-ViewModel)
++ Arquitectura: MVVM (Model-View-ViewModel)
 
-Base de Datos: Android Room
++ Base de Datos: Android Room
 
-Mapas: Google Maps Compose Library
++ Mapas: Google Maps Compose Library
 
-Concurrencia: Coroutines & Flow
++ Concurrencia: Coroutines & Flow
 
-Servicios: Android Foreground Services
++ Servicios: Android Foreground Services
 
 ### 🚀 Instalación y Configuración
 
